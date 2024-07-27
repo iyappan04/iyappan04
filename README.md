@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**iyappan04/iyappan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced in software development, Deep understanding about
+programming. More care about structure, modularity, code
+reusable, threading, time & space complexity & well understanding about
+threading & memery safe. ability to work with future development
+technologies. Good Communication with Public Speaking.
 
-Here are some ideas to get you started:
+# Programming: Rust, JS, Python, Solidity.
+# Web Frameworks: Django & (DRF), Vue + Tailwind Css, Actix Web, Rest
+# API, JWT, Web3, Redis
+# Deployment: AWS, Nginx, Docker
+# Tools: Linux (Ubuntu),
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
