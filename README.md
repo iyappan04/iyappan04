@@ -6,17 +6,17 @@ reusable, threading, time & space complexity & well understanding about
 threading & memery safe. ability to work with future development
 technologies. Good Communication with Public Speaking.
 
-##### Programming:
+#### Programming:
 Rust, JS, Python, Solidity. <br/>
 
-##### Web Frameworks: 
+#### Web Frameworks: 
 Django & (DRF), Vue + Tailwind Css, Actix Web, Rest
 API, JWT, Web3, Redis  <br/>
 
-##### Deployment: 
+#### Deployment: 
 AWS, Nginx, Docker  <br/>
 
-##### Tools: 
+#### Tools: 
 Linux (Ubuntu), Postman  <br/>
 
 
