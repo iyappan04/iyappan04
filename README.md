@@ -1,4 +1,4 @@
-## <h1 style="text-align:center">Hi, I'm IYAPPAN</h1> 👋
+## <h1 align="center">Hi,👋 I'm IYAPPAN</h1> 
 
 Experienced in software development, Deep understanding about
 programming. More care about structure, modularity, code
