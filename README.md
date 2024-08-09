@@ -13,7 +13,7 @@ Rust, JS, Python, Solidity. <br/>
 
 #### Web Frameworks: 
 Django & (DRF), Vue + Tailwind Css, Actix Web, Rest
-API, JWT, Web3, Redis  <br/>
+API, JWT, Web3, Redis, Web Socket  <br/>
 
 #### Deployment: 
 AWS, Nginx, Docker  <br/>
