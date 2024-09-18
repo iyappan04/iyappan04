@@ -22,6 +22,10 @@ AWS, Nginx, Docker  <br/>
 Linux (Ubuntu), Postman  <br/>
 
 
+#### Interests:
+Web, Web3, ML, Rust, Python
+
+
 
 
 
