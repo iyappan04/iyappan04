@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm IYAPPAN</h2>
+<h2 align="center">Hi 👋, I'M IYAPPAN</h2>
 
 <h3 align="center">A passionate self-taught developer from India !!</h3>
 
