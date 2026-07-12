@@ -9,7 +9,7 @@ threading & memery safe. ability to work with future development
 technologies. Good Communication with Public Speaking.
 
 #### Programming:
-Rust, JS, Python, Solidity. <br/>
+Rust, JS, Python, Solidity. Data Structures and Algorithms. <br/>
 
 #### Web Frameworks: 
 Django & (DRF), Vue + Tailwind Css, Actix Web, Rest
@@ -26,7 +26,7 @@ Linux (Ubuntu), Postman  <br/>
 
 
 #### Interests:
-Web, Web3, ML, Rust, Python
+Web, Web3, ML, Rust, Python, Low Level System Design
 
 
 
