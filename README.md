@@ -1,7 +1,3 @@
-<h2 align="center">Hi 👋, I'M IYAPPAN</h2>
-
-<h3 align="center">A passionate self-taught developer from India !!</h3>
-
 Experienced in software development, Deep understanding about
 programming. More care about structure, modularity, code
 reusable, threading, time & space complexity & well understanding about
